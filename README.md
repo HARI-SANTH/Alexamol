@@ -30,7 +30,7 @@ Project created by <a href="https://github.com/HARI-SANTH">Hari</a> to make it p
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HARI-SANTH/Alexa_Mwol)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HARI-SANTH/Alexamol)
 
 
 
